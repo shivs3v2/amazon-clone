@@ -3,7 +3,7 @@ const products = [
     {id:2, name:"iPhone 16 Pro Max", price:15000, image:"images/phone.jpg"},
     {id:3, name:"iWatch", price:89000, image:"images/iwatch.jpg"},
     {id:4, name:"Speaker", price:10000, image:"images/speaker.jpg"},
-    {id:5, name:"Mackbook Pro M4", price:349999,image:"images/laptop.webp"},
+    {id:5, name:"Mackbook Pro M4", price:249999,image:"images/laptop.webp"},
     {id:6, name:"Bluetooth Speaker", price:5000, image:"images/bs.jpg"}
 ];
 
